@@ -10,6 +10,6 @@ setup(
     	author='Craig RIggins',
     	author_email='criggins09@gmail.com',
     	packages=find_packages(exclude=["*.tests", "*.tests.*", "tests.*", "tests"]),
-    	install_requires=['math'],
+    	install_requires=[],
     	license='LICENSE',
     )
